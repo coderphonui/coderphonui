@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @coderphonui
+- 👋 Hi, I’m @coderphonui. In Vietnamese, it means a "Highland Coder".
 - 👀 I’m interested in building applications that bringing values to life
 - 🌱 I’m currently learning AI, machine learning and data science
 - 📫 How to reach me: email me at coderphonui@gmail.com
-- I am sharing my experience in my Vietnamese blog: https://www.coderphonui.com
+- I share my experience in my Vietnamese blog: https://www.coderphonui.com
 
 <!---
 coderphonui/coderphonui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
